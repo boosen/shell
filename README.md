@@ -3,7 +3,7 @@ shell
 
 each file is a command which can do something as a function
 
-list instroduces
+list introduces
   
   b2d is a conversion which can transform binary to decimal
   
